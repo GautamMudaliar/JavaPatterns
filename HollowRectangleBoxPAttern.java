@@ -25,3 +25,4 @@ class HollowRectangleBoxPattern {
     }
 
 }
+//or we can add if(i == 0 || j == 0 || i == rows || j == columns){ print *} 
